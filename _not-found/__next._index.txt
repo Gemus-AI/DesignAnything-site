@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[9959,[],""]
-3:I[9467,[],""]
-4:I[6814,["345","static/chunks/app/not-found-f9b34f4ac4e9a3de.js"],""]
+2:I[1536,[],""]
+3:I[1910,[],""]
+4:I[4913,["345","static/chunks/app/not-found-ddd49337ba9523d1.js"],""]
 :HL["/_next/static/css/8f15deaee165e7ee.css","style"]
-0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8f15deaee165e7ee.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-background font-sans text-foreground antialiased","children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 sm:px-6","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[["$","main",null,{"className":"py-24 text-center","children":[["$","h1",null,{"className":"text-2xl font-semibold","children":"Page not found"}],["$","p",null,{"className":"mt-3 text-muted-foreground","children":"This site has a single page."}],["$","$L4",null,{"href":"/","className":"mt-6 inline-block text-accent underline-offset-4 hover:underline","children":"Back to the paper"}]]}],[]]}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"E2BV1PU9JGEHtmwKJPdSj"}
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8f15deaee165e7ee.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-background font-sans text-foreground antialiased","children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 sm:px-6","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[["$","main",null,{"className":"py-24 text-center","children":[["$","h1",null,{"className":"text-2xl font-semibold","children":"Page not found"}],["$","p",null,{"className":"mt-3 text-muted-foreground","children":"This site has a single page."}],["$","$L4",null,{"href":"/","className":"mt-6 inline-block text-accent underline-offset-4 hover:underline","children":"Back to the paper"}]]}],[]]}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QtQ8yk3FLFowsjfcfheFW"}
