@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[6814,["345","static/chunks/app/not-found-f9b34f4ac4e9a3de.js"],""]
-3:I[5710,[],"OutletBoundary"]
+2:I[4913,["345","static/chunks/app/not-found-ddd49337ba9523d1.js"],""]
+3:I[2637,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"py-24 text-center","children":[["$","h1",null,{"className":"text-2xl font-semibold","children":"Page not found"}],["$","p",null,{"className":"mt-3 text-muted-foreground","children":"This site has a single page."}],["$","$L2",null,{"href":"/","className":"mt-6 inline-block text-accent underline-offset-4 hover:underline","children":"Back to the paper"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"C2nPN74yCMrMYWnQVly0H"}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"py-24 text-center","children":[["$","h1",null,{"className":"text-2xl font-semibold","children":"Page not found"}],["$","p",null,{"className":"mt-3 text-muted-foreground","children":"This site has a single page."}],["$","$L2",null,{"href":"/","className":"mt-6 inline-block text-accent underline-offset-4 hover:underline","children":"Back to the paper"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eo4rz5B4faIap9uumf7Rs"}
 5:null
