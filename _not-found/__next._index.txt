@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[1536,[],""]
-3:I[1910,[],""]
-4:I[4913,["345","static/chunks/app/not-found-d2b4ef026445b4aa.js"],""]
-:HL["/_next/static/css/a66008001f6587f7.css","style"]
-0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a66008001f6587f7.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-background font-sans text-foreground antialiased","children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 sm:px-6","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[["$","main",null,{"className":"py-24 text-center","children":[["$","h1",null,{"className":"text-2xl font-semibold","children":"Page not found"}],["$","p",null,{"className":"mt-3 text-muted-foreground","children":"This site has a single page."}],["$","$L4",null,{"href":"/","className":"mt-6 inline-block text-accent underline-offset-4 hover:underline","children":"Back to the paper"}]]}],[]]}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"tiHrQRbFmeGt7BnTpwuiN"}
+2:I[302,[],""]
+3:I[4948,[],""]
+4:I[7603,["345","static/chunks/app/not-found-53a6efffb1a27652.js"],""]
+:HL["/_next/static/css/c924bbb33d476a49.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c924bbb33d476a49.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-background font-sans text-foreground antialiased","children":["$","div",null,{"className":"mx-auto max-w-7xl px-4 sm:px-6","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[["$","main",null,{"className":"py-24 text-center","children":[["$","h1",null,{"className":"text-2xl font-semibold","children":"Page not found"}],["$","p",null,{"className":"mt-3 text-muted-foreground","children":"This site has a single page."}],["$","$L4",null,{"href":"/","className":"mt-6 inline-block text-accent underline-offset-4 hover:underline","children":"Back to the paper"}]]}],[]]}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"mJylluYS3-PkQvvvy10Sl"}
