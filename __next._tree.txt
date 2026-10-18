@@ -1,6 +1,6 @@
-:HL["/_next/static/css/79444cf17923c439.css","style"]
+:HL["/_next/static/css/6843ed1e60dcab5a.css","style"]
 :HL["/logos/arxiv.svg","image"]
 :HL["/logos/github.svg","image"]
 :HL["/logos/huggingface.svg","image"]
 :HL["/logos/gemus.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"xbJGJ8bA0FJGYPRegHcWR"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"a12m7BwvOj0pwme14JVUn"}
